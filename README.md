@@ -3,7 +3,7 @@
 This repository contains code for implementing a stacked ensemble regression model using scikit-learn library. The model is trained and evaluated on the Iris dataset.
 
 ## Description
-- `stacked_regression.ipynb`: This Jupyter Notebook contains code for importing necessary functions from scikit-learn, loading the Iris dataset, preprocessing the data, initializing base regression models (Random Forest and Linear Regression), creating and training a stacked ensemble regression model, and evaluating the model's accuracy.
+- `RF with Linear Regression.ipynb`: This Jupyter Notebook contains code for importing necessary functions from scikit-learn, loading the Iris dataset, preprocessing the data, initializing base regression models (Random Forest and Linear Regression), creating and training a stacked ensemble regression model, and evaluating the model's accuracy.
 
 ## Usage
 1. Download the Jupyter Notebook (`stacked_regression.ipynb`) and ensure you have Jupyter Notebook installed.
